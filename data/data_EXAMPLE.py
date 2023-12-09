@@ -134,5 +134,11 @@ DATA = {
         "scan": "https://cantoscan.com/tx",
         "token": "CANTO",
         "chain_id": 7700
+    },
+    "mantle": {
+        "rpc": "https://1rpc.io/mantle",
+        "scan": "https://explorer.mantle.xyz/tx",
+        "token": "MNT",
+        "chain_id": 5000,
     }
 }
